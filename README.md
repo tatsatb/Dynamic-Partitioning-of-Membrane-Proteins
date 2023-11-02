@@ -8,7 +8,7 @@ This repository contains two main sections:
 
 - The folder `Image_Analysis` contains code for computing intensity profiles and performing optical flow analysis that was developed to quantitate photoconversion microscopy-based protein tracking assay. This code was used to generate Figure 4, Supplementary Figure 6, and Supplementary figure 7 of the above mentioned paper. 
 
-Please read the [citation](#Citation/Restrictions) details below if you want to use/incorporate/modify a part of this repository in your research. 
+Please read the [citation](#Restrictions) details below if you want to use/incorporate/modify a part of this repository in your research. 
 
 ## File details
 
@@ -19,7 +19,7 @@ Please go through the readme files in `Computational_Model` ([here](/Computation
 
 The code is this repository was developed by Debojyoti Biswas, Pablo A. Iglesias, and Tatsat Banerjee (Johns Hopkins University, Baltimore, MD, USA). 
 
-## Citation/Restrictions
+## Restrictions
 
 This program is a free software (please see [License](#license) for details). However, if you are using this code in your work, please cite our work as:
 
