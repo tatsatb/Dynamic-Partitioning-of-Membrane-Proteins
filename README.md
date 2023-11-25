@@ -1,6 +1,8 @@
 # Dynamic Partitioning of Membrane Proteins
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10072364.svg)](https://doi.org/10.5281/zenodo.10072364)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10205324.svg)](https://doi.org/10.5281/zenodo.10205324)
+
 
 This repository hosts the code that was developed for the article: *“A dynamic partitioning mechanism polarizes membrane protein distribution”* (DOI: [10.1101/2023.01.03.522496](https://doi.org/10.1101/2023.01.03.522496)). Please see the *Methods* section of the paper for details on development of the computational modeling and image analysis workflow. 
 
