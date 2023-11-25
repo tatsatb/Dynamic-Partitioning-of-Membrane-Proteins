@@ -6,9 +6,9 @@ This repository hosts the code that was developed for the article: *“A dynamic
 
 This repository contains two main sections:
 
-- The folder `Computational_Model` contains code to perform two-dimensional spatiotemporal simulation using an excitable network-based stochastic reaction-diffusion system. These programs use [URDME](https://github.com/URDME/urdme) framework. The code is this folder was used to generate (the modified verison of) Figure 6, Supplementary Figure 9, and Supplementary figure 10 of the above mentioned paper. 
+- The folder `Computational_Model` contains code to perform two-dimensional spatiotemporal simulation using an excitable network-based stochastic reaction-diffusion system. These programs use [URDME](https://github.com/URDME/urdme) framework. The code is this folder was used to generate Figure 6, Supplementary Figure 12, and Supplementary Figure 13 of the above mentioned paper. 
 
-- The folder `Image_Analysis` contains code for computing intensity profiles and performing optical flow analysis that was developed to quantitate photoconversion microscopy-based protein tracking assay. This code was used to generate Figure 4, Supplementary Figure 6, and Supplementary figure 7 of the above mentioned paper. 
+- The folder `Image_Analysis` contains code for computing intensity profiles and performing optical flow analysis that was developed to quantitate photoconversion microscopy-based protein tracking assay. This code was used to generate Figure 4, Supplementary Figure 9, and Supplementary figure 10 of the above mentioned paper. 
 
 Please read the [citation](#Restrictions) details below if you want to use/incorporate/modify a part of this repository in your research. 
 

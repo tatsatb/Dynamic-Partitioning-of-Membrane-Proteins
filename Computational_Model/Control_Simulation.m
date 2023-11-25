@@ -1,5 +1,5 @@
 %----------------------------------------------------------------------------
-% This code was developed to generate (the modified verison of) Supplementary Figure 10
+% This code was developed to generate Supplementary Figure 13
 % of the following paper:
 %
 %

@@ -3,8 +3,8 @@
 % based protein tracking assay
 %
 %----------------------------------------------------------------------------
-% This code was developed to generate Figure 4, Supplementary Figure 6, and
-% Supplementary figure 7 of the following paper:
+% This code was developed to generate Figure 4, Supplementary Figure 9, and
+% Supplementary figure 10 of the following paper:
 %
 %
 %
