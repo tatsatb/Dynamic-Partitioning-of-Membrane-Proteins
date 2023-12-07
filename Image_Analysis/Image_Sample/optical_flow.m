@@ -16,19 +16,12 @@
 % "A dynamic partitioning mechanism polarizes membrane protein distribution".
 % 
 % 
-% bioRxiv, 2023. DOI:10.1101/2023.01.03.522496. PMID: 36712016. 
+% Nature Communications, 14, 7909 (2023). DOI:10.1038/s41467-023-43615-2. 
+% 
+% PMID: 38036511. 
 %
 %
 %----------------------------------------------------------------------------
-
-%============================================================================
-% For current citation details, please visit: 
-%
-%
-% https://github.com/tatsatb/Dynamic-Partitioning-of-Membrane-Proteins
-%
-%
-%============================================================================
 
 
 
