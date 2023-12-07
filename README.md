@@ -2,6 +2,12 @@
 
 
 
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10278723.svg)](https://doi.org/10.5281/zenodo.10278723)
+
+
+
 This repository hosts the code that was developed for the article: *“A dynamic partitioning mechanism polarizes membrane protein distribution”* (DOI: [10.1038/s41467-023-43615-2](https://doi.org/10.1038/s41467-023-43615-2)). Please see the *Methods* section of the paper for details on development of the computational modeling and image analysis workflow. 
 
 This repository contains two main sections:
