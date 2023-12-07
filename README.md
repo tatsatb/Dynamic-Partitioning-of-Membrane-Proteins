@@ -23,7 +23,7 @@ The code is this repository was developed by Debojyoti Biswas, Pablo A. Iglesias
 
 ## Citation/Restriction
 
-This program is a free software (please see [License](#license) for details). However, if you are using this code in your work, please cite our work as:
+This program is a free software (please see the [License](#license) information below for details). However, if you are using this code in your work, please cite our work as:
 
 
 > **Tatsat Banerjee, Satomi Matsuoka, Debojyoti Biswas, Yuchuan Miao, Dhiman Sankar Pal, Yoichiro Kamimura, Masahiro Ueda, Peter N. Devreotes, and Pablo A. Iglesias** _“A dynamic partitioning mechanism polarizes membrane protein distribution”_, Nature Communications, 14, 7909 (2023). DOI: [10.1038/s41467-023-43615-2](https://doi.org/10.1038/s41467-023-43615-2).
